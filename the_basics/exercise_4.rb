@@ -1,0 +1,5 @@
+movie_dates_arr = [2008, 2010, 2015, 2004]
+puts movie_dates_arr[0]
+puts movie_dates_arr[1]
+puts movie_dates_arr[2]
+puts movie_dates_arr[3]

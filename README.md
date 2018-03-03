@@ -1,0 +1,1 @@
+Exercise solutions for <https://launchschool.com/books/ruby>.
